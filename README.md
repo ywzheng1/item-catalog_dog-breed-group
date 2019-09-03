@@ -1,6 +1,17 @@
-# Udacity Item Catalog
+# Types of Dog Breed Catalog
+This catalog is focused on dog breed types. User after login can create new breeds under each dog types.
 
-A simple web application that provides a list of items within a variety of categories and integrate third party user registration and authentication. Authenticated users have the ability to post, edit, and delete their own items.
+![this link](images/homepage.png)
+
+----
+
+### About this Item Catalog
+
+The Item Catalog project consists of developing an application that provides a list of items within a variety of categories, as well as provide a user registration and authentication system.
+
+This program uses third-party auth with Google or Facebook. Some of the technologies used to build this application include Flask, Bootsrap, Jinja2, and SQLite.
+
+----
 
 ## Set Up
 
