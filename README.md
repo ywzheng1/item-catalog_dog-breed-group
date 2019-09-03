@@ -30,10 +30,3 @@ After the last command you are able to browse the application at this URL:
 
 `http://localhost:5000/`
 
-
-## Release History
-* 0.1.0 - Initial release
-
-## License
-
-MIT © [Ricardo Raphael Joson](http://rrjoson.com)
