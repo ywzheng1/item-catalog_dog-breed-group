@@ -41,3 +41,18 @@ After the last command you are able to browse the application at this URL:
 
 `http://localhost:5000/`
 
+------
+
+###Skills used for this project
+Python
+HTML
+CSS
+Bootstrap
+Flask
+Jinja2
+SQLAchemy
+OAuth
+Facebook / Google Login
+
+----
+
